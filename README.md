@@ -19,7 +19,7 @@ A simple weather web application built with **HTML, CSS, and JavaScript** that a
 
 ### 🚀 Live Demo
 
-> 🔗*http://127.0.0.1:5500/public/index.html*
+> 🔗 *http://127.0.0.1:5500/public/index.html*
 
 ---
 
@@ -35,11 +35,9 @@ A simple weather web application built with **HTML, CSS, and JavaScript** that a
 ### 📦 How to Run Locally
 
 1. Clone this repo:
-
-   ```bash
-   git clone https://github.com/Soundar586/weather_app.git
+bash:
+   git clone https://github.com/Soundar586/Staxtech_Project01/tree/main
    cd weather_app
-   ```
 
 2. Open `index.html`
 
@@ -60,7 +58,7 @@ A simple weather web application built with **HTML, CSS, and JavaScript** that a
 
 ---
 
-### 📌 Future Improvements
+### 📌In Future Improvements
 
 * 📱 Mobile responsive layout
 * 📍 Auto-location weather
