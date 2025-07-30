@@ -19,7 +19,7 @@ A simple weather web application built with **HTML, CSS, and JavaScript** that a
 
 ### 🚀 Live Demo
 
-> 🔗 [Live Demo on GitHub Pages](#) *(Add your live link if hosted)*
+> 🔗*http://127.0.0.1:5500/public/index.html*
 
 ---
 
@@ -37,11 +37,11 @@ A simple weather web application built with **HTML, CSS, and JavaScript** that a
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/Soundar586/weather-app.git
-   cd weather-app
+   git clone https://github.com/Soundar586/weather_app.git
+   cd weather_app
    ```
 
-2. Open `index.html` in any browser
+2. Open `index.html`
 
 3. Replace `934fe3f47152472ab27144154252907
 ` in `script.js` with your WeatherAPI key:
