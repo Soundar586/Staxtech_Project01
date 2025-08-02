@@ -41,11 +41,11 @@ bash:
 
 2. Open `index.html`
 
-3. Replace `934fe3f47152472ab27144154252907
+3. Replace Your Key
 ` in `script.js` with your WeatherAPI key:
 
    ```javascript
-   const apiKey = '934fe3f47152472ab27144154252907
+   const apiKey = "Your Key"
 ';
    ```
 
